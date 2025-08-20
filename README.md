@@ -22,7 +22,7 @@ Instead of endless scrolling, this portfolio adapts to you. Ask, explore, and in
 
 ## 🎯 Live Demo
 
-➡️ **[Experience the Portfolio](https://your-portfolio-link-here)** 
+➡️ **[Experience the Portfolio](https://mohamedashraf.vercel.app/)** 
 
 ---
 
@@ -70,3 +70,55 @@ cp .env.example .env
 
 # Start the development server
 pnpm dev
+
+📁 Project Structure
+new-portfolio/
+├── src/
+│   ├── components/     # React components
+│   ├── hooks/         # Custom React hooks
+│   ├── utils/         # Utility functions
+│   └── styles/        # CSS/SCSS files
+├── public/            # Static assets
+├── data/             # JSON/Markdown content
+└── scripts/          # Build and utility scripts
+
+🌟 Features
+🤖 AI-Powered Interactions - Natural language conversations with your portfolio
+
+📱 Fully Responsive - Optimized for all devices and screen sizes
+
+⚡ Blazing Fast - Built with performance in mind
+
+🎨 Modern UI/UX - Clean, intuitive interface with smooth animations
+
+🔧 Developer Friendly - Well-documented code with TypeScript
+
+🔮 Future Enhancements
+Voice interaction capabilities
+
+Dark/light theme toggle
+
+3D visualizations of projects
+
+Multi-language support
+
+Integration with more APIs (GitLab, LinkedIn, etc.)
+
+
+🤝 Contributing
+While this is primarily a personal portfolio, suggestions and improvements are welcome! Please feel free to fork this repository and submit pull requests.
+
+<div align="center">
+Made with ❤️ and ☕
+
+https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+
+</div>
+<div align="center">
+🔖 Tags
+#AIPortfolio #NextGenResume #DigitalResume #WebDevelopment #FutureOfWork #Innovation
+
+</div> ```
+
