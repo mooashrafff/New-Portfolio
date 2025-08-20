@@ -1,8 +1,13 @@
 # NEW-PORTFOLIO 🚀
 
+Project Banner<img width="1934" height="1234" alt="image" src="https://github.com/user-attachments/assets/61ee39d8-e8e6-4d40-8664-398cd4a17ae2" />
+
+
 > **Empowering Innovation Through Seamless Digital Presence**
 
-![Project Banner](https://via.placeholder.com/800x200/0F172A/FFFFFF?text=Next-Gen+Interactive+Portfolio)
+![Static portfolios are outdated](https://img.shields.io/badge/Status-Next%20Generation-blueviolet) 
+![Interactive](https://img.shields.io/badge/Experience-Interactive-important) 
+![AI Powered](https://img.shields.io/badge/Feature-AI%20Powered-success)
 
 Static portfolios are outdated. That's why I built **New-Portfolio** — a next-generation, interactive space that reflects my skills, projects, and journey in tech.
 
@@ -22,7 +27,7 @@ Instead of endless scrolling, this portfolio adapts to you. Ask, explore, and in
 
 ## 🎯 Live Demo
 
-➡️ **[Experience the Portfolio](https://mohamedashraf.vercel.app/)** 
+➡️ **[Experience the Portfolio](https://mohamedashraf.vercel.app/))** 
 
 ---
 
@@ -54,7 +59,6 @@ Instead of endless scrolling, this portfolio adapts to you. Ask, explore, and in
 - OpenAI API token (for AI features)
 - GitHub token (for repo integration)
 
-
 ### Installation
 
 ```bash
@@ -71,4 +75,3 @@ cp .env.example .env
 
 # Start the development server
 pnpm dev
-  
