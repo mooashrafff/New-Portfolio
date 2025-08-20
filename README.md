@@ -1,69 +1,72 @@
-NEW-PORTFOLIO 🚀
+# NEW-PORTFOLIO 🚀
 
-Empowering Innovation Through Seamless Digital Presence
+> **Empowering Innovation Through Seamless Digital Presence**
 
-Static portfolios are outdated.
-That’s why I built New-Portfolio — a next-generation, interactive space that reflects my skills, projects, and journey in tech.
+![Project Banner](https://via.placeholder.com/800x200/0F172A/FFFFFF?text=Next-Gen+Interactive+Portfolio)
 
-Instead of endless scrolling, this portfolio adapts to you.
-Ask, explore, and interact — it’s a conversation tailored to your curiosity.
+Static portfolios are outdated. That's why I built **New-Portfolio** — a next-generation, interactive space that reflects my skills, projects, and journey in tech.
 
-👇 What can you discover?
+Instead of endless scrolling, this portfolio adapts to you. Ask, explore, and interact — it's a conversation tailored to your curiosity.
 
-🧠 Recruiter? → Explore my tech stack, achievements, and impact
+---
 
-💻 Developer? → Dive into my code, tools, and approach
+## ✨ What Can You Discover?
 
-🌍 Friend or visitor? → See what I’ve been building lately
+| Audience | Experience |
+|----------|------------|
+| **🧠 Recruiter** | Explore my tech stack, achievements, and impact |
+| **💻 Developer** | Dive into my code, tools, and approach |
+| **🌍 Friend or Visitor** | See what I've been building lately |
 
-➡️ Live Demo: [your-portfolio-link-here]
+---
 
-🛠️ Tech & Tools
+## 🎯 Live Demo
 
-Built with:
+➡️ **[Experience the Portfolio](https://your-portfolio-link-here)** 
 
-JSON Markdown npm Prettier JavaScript
-React TypeScript Zod ESLint YAML
+---
 
-🚀 How to run locally
-Prerequisites
+## 🛠️ Tech Stack & Tools
 
-Node.js (v18 or higher)
+<div align="center">
 
-pnpm package manager
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-000000?style=for-the-badge&logo=yaml&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-OpenAI API token (for AI features)
+**Built With:** JSON, Markdown, npm, Prettier, JavaScript, React, TypeScript, Zod, ESLint, YAML
 
-GitHub token (for repo integration)
+</div>
 
-Setup
+---
 
-Clone the repository:
+## 🚀 Quick Start
 
-git clone <your-repo-url>
+### Prerequisites
+
+- Node.js (v18 or higher)
+- pnpm package manager
+- OpenAI API token (for AI features)
+- GitHub token (for repo integration)
+
+### Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/new-portfolio.git
 cd new-portfolio
 
-
-Install dependencies:
-
+# Install dependencies
 pnpm install
 
+# Set up environment variables
+cp .env.example .env
+# Add your API keys to the .env file
 
-Add environment variables in .env:
-
-OPENAI_API_KEY=your_openai_api_key_here
-GITHUB_TOKEN=your_github_token_here
-
-
-Run the dev server:
-
+# Start the development server
 pnpm dev
-
-
-Open your browser at:
-
-http://localhost:3000
-
-🔖 Tags
-
-#AIPortfolio #NextGenResume #DigitalResume #WebDevelopment #FutureOfWork #Innovation
