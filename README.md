@@ -1,70 +1,69 @@
-![image](assets/readme-photo.png)
- 
-# World's first AI portfolio 🤖✨  
+NEW-PORTFOLIO 🚀
 
-**Static portfolios are dead.**  
-So I built [toukoum.fr](https://toukoum.fr).
+Empowering Innovation Through Seamless Digital Presence
 
-Instead of making you scroll endlessly, my portfolio adapts to *you*.  
-Ask a question — my AI avatar replies instantly.
+Static portfolios are outdated.
+That’s why I built New-Portfolio — a next-generation, interactive space that reflects my skills, projects, and journey in tech.
 
-## 👇 What can you ask?
+Instead of endless scrolling, this portfolio adapts to you.
+Ask, explore, and interact — it’s a conversation tailored to your curiosity.
 
-- 🧠 **Tech recruiter?** Ask about my stack & results  
-- 💻 **Dev?** Dive into my code & mindset  
-- 🧑‍🤝‍🧑 **Friend or family?** See what I’ve been working on  
+👇 What can you discover?
 
----
+🧠 Recruiter? → Explore my tech stack, achievements, and impact
 
-This is not a portfolio.  
-It’s a **conversation tailored to your curiosity**.
+💻 Developer? → Dive into my code, tools, and approach
 
-➡️ **Try it now:** [https://toukoum.fr](https://toukoum.fr)  
-*What will you ask?*
+🌍 Friend or visitor? → See what I’ve been building lately
 
-## 🚀 How to run
+➡️ Live Demo: [your-portfolio-link-here]
 
-Want to run this project locally? Here's what you need:
+🛠️ Tech & Tools
 
-### Prerequisites
-- **Node.js** (v18 or higher)
-- **pnpm** package manager
-- **OpenAI API token** (for AI chat functionality)
-- **GitHub token** (for GitHub integration features)
+Built with:
 
-### Setup
-1. **Clone the repository**
-   ```bash
-   git clone <your-repo-url>
-   cd portfolio
-   ```
+JSON Markdown npm Prettier JavaScript
+React TypeScript Zod ESLint YAML
 
-2. **Install dependencies**
-   ```bash
-   pnpm install
-   ```
+🚀 How to run locally
+Prerequisites
 
-3. **Environment variables**
-   Create a `.env` file in the root directory:
-   ```env
-   OPENAI_API_KEY=your_openai_api_key_here
-   GITHUB_TOKEN=your_github_token_here
-   ```
+Node.js (v18 or higher)
 
-4. **Run the development server**
-   ```bash
-   pnpm dev
-   ```
+pnpm package manager
 
-5. **Open your browser**
-   Navigate to `http://localhost:3000`
+OpenAI API token (for AI features)
 
-### Getting your **tokens**
-- **OpenAI API Key**: Get it from [platform.openai.com](https://platform.openai.com/api-keys)
-- **GitHub Token**: Generate one at [github.com/settings/tokens](https://github.com/settings/personal-access-tokens) with repo access
+GitHub token (for repo integration)
+
+Setup
+
+Clone the repository:
+
+git clone <your-repo-url>
+cd new-portfolio
 
 
+Install dependencies:
 
-#### 🔖 Tags
+pnpm install
 
-`#AIPortfolio` `#InnovationInTech` `#DigitalResume` `#JobSearch` `#TechInnovation` `#WebDevelopment` `#FutureTech`
+
+Add environment variables in .env:
+
+OPENAI_API_KEY=your_openai_api_key_here
+GITHUB_TOKEN=your_github_token_here
+
+
+Run the dev server:
+
+pnpm dev
+
+
+Open your browser at:
+
+http://localhost:3000
+
+🔖 Tags
+
+#AIPortfolio #NextGenResume #DigitalResume #WebDevelopment #FutureOfWork #Innovation
