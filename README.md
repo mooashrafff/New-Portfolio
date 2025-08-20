@@ -27,7 +27,7 @@ Instead of endless scrolling, this portfolio adapts to you. Ask, explore, and in
 
 ## 🎯 Live Demo
 
-➡️ **[Experience the Portfolio](https://mohamedashraf.vercel.app/))** 
+➡️ **[Experience the Portfolio](https://mohamedashraf.vercel.app/)** 
 
 ---
 
